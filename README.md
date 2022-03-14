@@ -35,7 +35,9 @@
 <br />
 <br />
 
-
+[twitter]: https://twitter.com/kb_bbg
+[instagram]: https://instagram.com/kb_benice
+[linkedin]: https://linkedin.com/in/keiranbrown1301
 <!---
 KeiranBrown1301/KeiranBrown1301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
