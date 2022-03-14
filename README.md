@@ -2,8 +2,8 @@
 
 
 ### Who am I?
-- 💻 Working with Ruby on rails on the back-end, and then for Front End I have been using CSS3, HTML5 and JS (ES6)
-- 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022)
+- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
+- 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).
 - 👨‍🏫 Currently working as an English Language Instructor for Gaba.
 - 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
 - 🎮 Keen gamer!
@@ -38,7 +38,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="KeiranBrown1301's GitHub Stats" src="https://github-readme-stats-rhysmalyon.vercel.app/api?username=KeiranBrown1301&show_icons=true&hide_border=true" />
+
+</details>
 
 [twitter]: https://twitter.com/kbLoL13
 [instagram]: https://instagram.com/kb_benice
