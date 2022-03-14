@@ -1,4 +1,4 @@
-### G'day, I’m Keiran. - Full Stack Web Developer. 🐨
+### G'day, I’m Keiran - Full Stack Web Developer. 🐨
 
 
 ### Who am I?
