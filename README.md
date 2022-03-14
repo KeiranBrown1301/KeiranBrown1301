@@ -38,6 +38,7 @@
 <br />
 <br />
 
+### Check out my stats too!
 <details>
   <summary>:zap: GitHub Stats</summary>
 
