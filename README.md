@@ -3,10 +3,11 @@
 
 ### Who am I?
 - 💻 Working with Ruby on rails on the back-end, and then for Front End I have been using CSS3, HTML5 and JS (ES6)
-- 🎧 I’m super passionate about music, I love a good bowl of ramen and I am an avid gamer.
-- 📚 Studied at LeWagon I’m currently learning a lot of new things!
-- 👨‍🏫 Currently working as an English Language Instructor for 
-- 📫 How to reach me @keiranbrown1301 on Linkedin!
+- 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022)
+- 👨‍🏫 Currently working as an English Language Instructor for Gaba.
+- 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
+- 🎮 Keen gamer!
+- 🍜 Ramen lover.
 
 
 ### Let's Connect!
