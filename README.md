@@ -1,17 +1,17 @@
-### G'day, I’m Keiran - Frontend Web Developer. 🐨
+### G'day, I’m Keiran.
+### I'm a Frontend Web Developer. 
 
 
-### Who am I?
-- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
-- 🥰 I'm currently learning and loving React too!
+### A little bit more about me.
+- 💻 Working with **React** as well as **Next.js** and **Sass** too Plus a little bit of vanilla **JavaScript** for good measure.
 - 📚 Studied at Le Wagon Tokyo (Batch 718 - Fall 2021 ~ Winter 2022).
 - 👨‍🏫 Currently working as an English Language Instructor for Gaba.
-- 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
+- 🥅 Goal: Build a career in Tech and never, ever stop learning.
 - 🎮 Keen gamer!
-- 🍜 Ramen lover.
+- 🍜 Ramen lover (Crushing up to 150 bowls a year!)
 
 
-### Let's Connect!
+### Drop me a line!
  [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" />][instagram]
