@@ -3,7 +3,7 @@
 
 
 ### A little bit more about me.
-- 💻 Working with **React** as well as **Next.js** and **Sass** too Plus a little bit of vanilla **JavaScript** for good measure.
+- 💻 Working with **React** as well as **Next.js** and **Sass** too! Plus a little bit of vanilla **JavaScript** for good measure.
 - 📚 Studied at Le Wagon Tokyo (Batch 718 - Fall 2021 ~ Winter 2022).
 - 👨‍🏫 Currently working as an English Language Instructor for Gaba.
 - 🥅 Goal: Build a career in Tech and never, ever stop learning.
