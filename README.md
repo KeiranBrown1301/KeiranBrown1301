@@ -3,10 +3,10 @@
 
 
 ### A little bit more about me.
-- 💻 Working with **React** as well as **Next.js** and **Sass** too! Plus a little bit of vanilla **JavaScript** for good measure.
+- 💻 Working on some really cool Web3 projects.
 - 📚 Studied at Le Wagon Tokyo (Batch 718 - Fall 2021 ~ Winter 2022).
-- 👨‍🏫 Currently working as an English Language Instructor for Gaba.
-- 🥅 Goal: Build a career in Tech and never, ever stop learning.
+- 🧑‍💻 Currently working as an Frontend Engineer at TeamZ
+- 🥅 Goal: Never, ever stop learning.
 - 🎮 Keen gamer!
 - 🍜 Ramen lover (Crushing up to 150 bowls a year!)
 
